@@ -63,4 +63,15 @@ Make a 10 minutes presentation summarizing all of your course works and what mea
 - [Reproducible publishing] (NS)
 - Presentations and discussions
 
+## Want to continue learning?
+
+### Danish Reproducibility network
+
+If you wnat to get involved in reproducibility after this course, consider joining the Danish Reproducibility network (DKRN). You can find information about it [here](https://danish-repro.github.io/).
+
+
+### Reproducibility in other labs
+
+In a recent session at the D3A conference the Danish Reproducibility network compiled some videos that show how other labs handle reproducibility. You cna watch them [here](https://www.youtube.com/playlist?list=PLJPfqQPI6i_AfAP4U6zMOSuM9X2GlsHyC).
+
  
