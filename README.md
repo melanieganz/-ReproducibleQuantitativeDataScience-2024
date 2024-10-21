@@ -17,10 +17,10 @@ A course prepared by Dr Melanie Ganz and Dr Cyril Pernet. The course structure i
 
 ### Day 2 - Reproducible designs, protocols and pre-registration
 
-- [Concepts and tools for protocol documentation, and study pre-registration] (CP)
-- [Ethic and GDPR] - lecture and practical case reviews (CP )
-- [Using markdown] for documentation - practical (MG)
-- [Version control and social coding with Git] see the [quick sheet](https://github.com/CPernet/Quicksheets/blob/main/git_github/git.mkd) and GitHub - practical, split into novice/advanced groups (all) 
+- [Concepts and tools for protocol documentation, and study pre-registration](./lecture_slides/1.05_Concepts&Tools_doc&preregistration.pdf) (CP)
+- [Ethics and GDPR](./lecture_slides/1.06_Ethic&GDPR) - lecture and practical case reviews (CP)
+- [Using markdown](./lecture_slides/1.07_Using_markdown_for_documentation.pdf) for documentation - practical (MG)
+- [Version control and social coding with Git](./lecture_slides/1.08_VersionControl_Mkd_SocialCoding.pdf) see the [quick sheet](https://github.com/CPernet/Quicksheets/blob/main/git_github/git.mkd) and GitHub - practical, split into novice/advanced groups (all) 
 
 ### Course work
 
