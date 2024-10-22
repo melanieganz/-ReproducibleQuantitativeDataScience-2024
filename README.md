@@ -40,7 +40,7 @@ Submit your coursework via e-mail to Cyril and Melanie three weeks before the ne
 
 ### Day 4 - Better analyses 
 
-- [Computational reproducibility](https://files.inm7.de/mih/pres/talks/rdm_reproducibility_copenhagen2023.html#/) lecture and practical all morning (MH, MG & CP as helpers).
+- [Computational reproducibility](https://files.inm7.de/mih/talks/computational-reproduccibility-in-practice) lecture and practical all morning (MH, MG & CP as helpers).
 - [P-hacking] your data (CP)
 - Time to update your code - push code here, review each other work, present, discuss with teachers (students do the work)
 
