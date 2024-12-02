@@ -62,7 +62,7 @@ Make a 10 minutes presentation summarizing all of your course works and what mea
 - Presentations and discussions
 - [The ‘data’ cycle - Sharing from raw data to figures](./lecture_slides/3.01_DataSharing.pdf) - lecture (CP)
 - [Publishing, peer review and reviewing](./lecture_slides/3.02_Publishing.pdf) - lecture (CP)
-- [Reproducible publishing] (NS)  https://ucph-ku.zoom.us/j/61505025098?pwd=Jj0rd2xYN9UBjZ9QjRVkD3FQowKPvi.1
+- [Reproducible publishing] (NS)  
 
 
 ## Want to continue learning?
