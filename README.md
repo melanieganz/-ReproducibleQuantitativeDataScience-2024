@@ -59,9 +59,10 @@ Make a 10 minutes presentation summarizing all of your course works and what mea
 
 ### Day 5 - Data sharing 
 
+- Presentations and discussions
 - The ‘data’ cycle, [sharing from raw data to figures] - lecture (CP & MG)
 - [Reproducible publishing] (NS)  https://ucph-ku.zoom.us/j/61505025098?pwd=Jj0rd2xYN9UBjZ9QjRVkD3FQowKPvi.1
-- Presentations and discussions
+
 
 ## Want to continue learning?
 
