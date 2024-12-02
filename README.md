@@ -41,7 +41,7 @@ Submit your coursework via e-mail to Cyril and Melanie three weeks before the ne
 ### Day 4 - Better analyses 
 
 - [Computational reproducibility](https://files.inm7.de/mih/talks/computational-reproduccibility-in-practice) lecture and practical all morning (MH, MG & CP as helpers).
-- [P-hacking] your data (CP)
+- [P-hacking](./lecture_slides/2.04_Hacking_HARKing_and_SHARKING_your_research.pdf) your data (CP)
 - Time to update your code - push code here, review each other work, present, discuss with teachers (students do the work)
 
 Please prepare before the course:
